@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="643ef3c3-4841-4505-a73d-9d806a75daad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_Test_Log/RegisterPage_Test_invalid.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_Test_Log/RegisterPage_Test_valid.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_Test_Log/invalidTest_RegisterPage.log" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_Test_Log/invalidTest_RegisterPage.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_Test_Log/validTest_RegisterPage.log" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_Test_Log/validTest_RegisterPage.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_automationTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterPage_automation/RegisterPage_automationTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RegisterPage_automation/UserData_Text_files/valid_RegisterPage_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RegisterPage_automation/UserData_Text_files/valid_RegisterPage_test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RegisterPage_automation/screenshots/RegisterPage_InvalidTest_passed.png" beforeDir="false" />

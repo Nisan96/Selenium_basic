@@ -1,26 +1,16 @@
-2024-01-12 03:16:01,004 - INFO: valid RegisterPage Test execution start...
-2024-01-12 03:16:02,364 - INFO: Edge launch successfully
-2024-01-12 03:16:03,809 - INFO: Register page open Successful.
-2024-01-12 03:16:04,518 - INFO: Enter First Name Successfully.
-2024-01-12 03:16:04,759 - INFO: Enter Last Name Successfully
-2024-01-12 03:16:05,024 - INFO: Enter E-mail Successfully
-2024-01-12 03:16:05,277 - INFO: Enter phone number Successfully
-2024-01-12 03:16:05,353 - INFO: Enter password Successfully
-2024-01-12 03:16:05,426 - INFO: Enter confirm password Successfully
-2024-01-12 03:16:05,478 - INFO: Subscribe Radio Button clicked Successfully
-2024-01-12 03:16:05,524 - INFO: agree checkbox checked Successfully
-2024-01-12 03:16:09,253 - INFO: continue button clicked successfully
-2024-01-12 03:16:14,270 - INFO: Test passed. Register successfully
-2024-01-12 03:16:20,632 - INFO: Invalid RegisterPage Test execution start...
-2024-01-12 03:16:21,932 - INFO: Edge launch successfully
-2024-01-12 03:16:23,179 - INFO: Register page open Successful.
-2024-01-12 03:16:23,846 - INFO: Enter First Name Successfully.
-2024-01-12 03:16:24,147 - INFO: Enter Last Name Successfully
-2024-01-12 03:16:24,413 - INFO: Enter E-mail Successfully
-2024-01-12 03:16:24,658 - INFO: Enter phone number Successfully
-2024-01-12 03:16:24,878 - INFO: Enter password Successfully
-2024-01-12 03:16:24,966 - INFO: Enter confirm password Successfully
-2024-01-12 03:16:25,018 - INFO: Subscribe Radio Button clicked Successfully
-2024-01-12 03:16:25,074 - INFO: agree checkbox checked Successfully
-2024-01-12 03:16:28,301 - INFO: continue button clicked successfully
-2024-01-12 03:16:31,316 - INFO: Test passed. Can't Register
+2024-01-16 20:55:02,481 - __main__ - INFO - valid RegisterPage Test execution start...
+2024-01-16 20:55:04,021 - __main__ - INFO - Edge launch successfully
+2024-01-16 20:56:18,218 - __main__ - INFO - valid RegisterPage Test execution start...
+2024-01-16 20:58:18,474 - __main__ - INFO - valid RegisterPage Test execution start...
+2024-01-16 20:58:19,944 - __main__ - INFO - Edge launch successfully
+2024-01-16 20:58:21,780 - __main__ - INFO - Register page open Successful.
+2024-01-16 20:58:22,324 - __main__ - INFO - Enter First Name Successfully.
+2024-01-16 20:58:22,567 - __main__ - INFO - Enter Last Name Successfully
+2024-01-16 20:58:22,825 - __main__ - INFO - Enter E-mail Successfully
+2024-01-16 20:58:23,036 - __main__ - INFO - Enter phone number Successfully
+2024-01-16 20:58:23,115 - __main__ - INFO - Enter password Successfully
+2024-01-16 20:58:23,195 - __main__ - INFO - Enter confirm password Successfully
+2024-01-16 20:58:23,252 - __main__ - INFO - Subscribe Radio Button clicked Successfully
+2024-01-16 20:58:23,303 - __main__ - INFO - agree checkbox checked Successfully
+2024-01-16 20:58:26,989 - __main__ - INFO - continue button clicked successfully
+2024-01-16 20:58:32,005 - __main__ - INFO - Test passed. Register successfully

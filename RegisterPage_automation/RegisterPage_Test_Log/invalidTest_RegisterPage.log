@@ -1,13 +1,13 @@
-2024-01-12 03:16:20,632 - INFO: Invalid RegisterPage Test execution start...
-2024-01-12 03:16:21,932 - INFO: Edge launch successfully
-2024-01-12 03:16:23,179 - INFO: Register page open Successful.
-2024-01-12 03:16:23,846 - INFO: Enter First Name Successfully.
-2024-01-12 03:16:24,147 - INFO: Enter Last Name Successfully
-2024-01-12 03:16:24,413 - INFO: Enter E-mail Successfully
-2024-01-12 03:16:24,658 - INFO: Enter phone number Successfully
-2024-01-12 03:16:24,878 - INFO: Enter password Successfully
-2024-01-12 03:16:24,966 - INFO: Enter confirm password Successfully
-2024-01-12 03:16:25,018 - INFO: Subscribe Radio Button clicked Successfully
-2024-01-12 03:16:25,074 - INFO: agree checkbox checked Successfully
-2024-01-12 03:16:28,301 - INFO: continue button clicked successfully
-2024-01-12 03:16:31,316 - INFO: Test passed. Can't Register
+2024-01-16 20:58:38,373 - __main__ - INFO - Invalid RegisterPage Test execution start...
+2024-01-16 20:58:39,727 - __main__ - INFO - Edge launch successfully
+2024-01-16 20:58:41,957 - __main__ - INFO - Register page open Successful.
+2024-01-16 20:58:43,779 - __main__ - INFO - Enter First Name Successfully.
+2024-01-16 20:58:44,210 - __main__ - INFO - Enter Last Name Successfully
+2024-01-16 20:58:44,471 - __main__ - INFO - Enter E-mail Successfully
+2024-01-16 20:58:44,712 - __main__ - INFO - Enter phone number Successfully
+2024-01-16 20:58:44,937 - __main__ - INFO - Enter password Successfully
+2024-01-16 20:58:45,012 - __main__ - INFO - Enter confirm password Successfully
+2024-01-16 20:58:45,062 - __main__ - INFO - Subscribe Radio Button clicked Successfully
+2024-01-16 20:58:45,110 - __main__ - INFO - agree checkbox checked Successfully
+2024-01-16 20:58:48,351 - __main__ - INFO - continue button clicked successfully
+2024-01-16 20:58:51,358 - __main__ - INFO - Test passed. Can't Register
